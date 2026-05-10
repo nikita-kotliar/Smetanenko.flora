@@ -1,26 +1,26 @@
 {
-  "name": "umt-markup-practice-kotliar",
+  "name": "flora",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/UMT-markup-practice-kotliar/",
+    "build": "vite build --base=/Smetanenko.flora/",
     "preview": "vite preview",
     "deploy": "npm run build && gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nikita-kotliar/UMT-markup-practice-kotliar.git"
+    "url": "git+https://github.com/nikita-kotliar/Smetanenko.flora"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/nikita-kotliar/UMT-markup-practice-kotliar/issues"
+    "url": "https://github.com/nikita-kotliar/Smetanenko.flora/issues"
   },
-  "homepage": "https://github.com/nikita-kotliar/UMT-markup-practice-kotliar#readme",
+  "homepage": "https://github.com/nikita-kotliar/Smetanenko.flora#",
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "glob": "^13.0.6",

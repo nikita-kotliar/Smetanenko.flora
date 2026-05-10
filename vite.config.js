@@ -20,7 +20,7 @@ export default defineConfig(({ command }) => {
       },
     },
     build: {
-      base: "/UMT-markup-practice-kotliar/",
+      base: "/Smetanenko.flora/",
       sourcemap: true,
       rollupOptions: {
         input: glob.sync("./src/*.html"),

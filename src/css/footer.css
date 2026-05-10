@@ -26,6 +26,10 @@
   gap: 32px;
 }
 
+.footer-section .nav-list li:hover {
+  color: var(--green-button);
+}
+
 .footer-section .nav-href {
   font-size: 16px;
 }
@@ -54,6 +58,10 @@
 
 .footer-section .contacts-list .icon {
   fill: var(--black);
+}
+
+.footer-section .contacts-list .icon:hover {
+  fill: var(--green-button);
 }
 
 @media (min-width: 768px) {
